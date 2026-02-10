@@ -1,3 +1,4 @@
 version:201
 ID:https://github.com/GlomePack/GlomePackAPI/raw/refs/heads/main/versions/GlomePack2.0.zip
 type:GITHUB
+content:FOLDER
